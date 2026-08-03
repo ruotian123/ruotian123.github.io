@@ -4,4 +4,8 @@ excerpt: "This paper proposes a pedestrian-aware, curiosity-enhanced MAPPO frame
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/portfolio_RND_MAPPO_1.jpg'>
+Project Type: Research Project
+Duration: March 2023.09 – 2024.06  
+Role: Lead Researcher  
+Keywords: Reinforcement Learning, Traffic Signal Control, Multi-agent Reinforcement Learning, Curiosity Mechanism

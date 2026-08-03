@@ -3,6 +3,7 @@ title: "Smart Traffic Signal Control in Urban Environments Leveraging SUMO and C
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-15-paper_RND_MAPPO
+excerpt: ''
 date: 2026-05-15
 venue: 'IET Intelligent Transport System'
 paperurl: 'https://ruotian123.github.io/files/paper_RND_MAPPO1.pdf'

@@ -23,3 +23,7 @@ Urban multi-intersection traffic signal control is challenging because the effec
 We formulate pedestrian-aware traffic signal control as a cooperative multi-agent reinforcement learning problem. Each signalized intersection acts as an agent and executes a decentralized policy based on its local traffic observation.
 
 The proposed method uses MAPPO as the cooperative learning backbone and incorporates Random Network Distillation as an intrinsic-reward mechanism. The RND module encourages each agent to visit less familiar traffic states during training, while the extrinsic reward maintains the vehicle and pedestrian traffic-control objectives.
+<img src='/images/portfolio_RND_MAPPO_2.jpg'>
+<img src='/images/portfolio_RND_MAPPO_3.jpg'>
+<img src='/images/portfolio_RND_MAPPO_4.jpg'>
+<img src='/images/portfolio_RND_MAPPO_5.jpg'>

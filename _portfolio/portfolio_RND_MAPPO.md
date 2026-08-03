@@ -10,3 +10,9 @@ Project Type: Research Project<br/>
 Duration: March 2023.09 – 2024.06  
 Role: Lead Researcher  
 Keywords: Reinforcement Learning, Traffic Signal Control, Multi-agent Reinforcement Learning, Curiosity Mechanism
+## TL;DR
+
+We develop a pedestrian-aware multi-agent traffic signal control framework
+that integrates Random Network Distillation with MAPPO. Curiosity-driven
+exploration enables the intersection agents to learn coordinated signal
+control policies more efficiently in a realistic Helsinki traffic network.

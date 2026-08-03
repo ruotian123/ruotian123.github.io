@@ -10,6 +10,11 @@ Project Type: Research Project<br/>
 Duration: March 2023.09 – 2024.06  
 Role: Lead Researcher  
 Keywords: Reinforcement Learning, Traffic Signal Control, Multi-agent Reinforcement Learning, Curiosity Mechanism
+
+## My Role
+
+I led the project investigation and implementation and wrote the original manuscript draft.
+
 ## TL;DR
 
 We develop a pedestrian-aware multi-agent traffic signal control framework that integrates Random Network Distillation with MAPPO. Curiosity-driven exploration enables the intersection agents to learn coordinated signal control policies more efficiently in a realistic Helsinki traffic network.
@@ -28,6 +33,7 @@ The proposed method uses MAPPO as the cooperative learning backbone and incorpor
 ## Experimental Setting
 
 The method is evaluated in SUMO on a real-map-based Helsinki traffic subnetwork containing 16 signalized intersections. The environment includes both vehicle and pedestrian traffic and is evaluated under low-, medium-, and high-demand conditions.
+<img src='/images/portfolio_RND_MAPPO_6.jpg'>
 
 ## Key Results
 
@@ -40,9 +46,10 @@ Compared with vanilla MAPPO, the proposed RND-MAPPO method achieves:
 - **21.0% improvement** in the area under the learning curve;
 - **38.3% reduction** in the number of episodes required to reach the predefined performance threshold.
 
-## My Role
-
-I led the project investigation and implementation and wrote the original manuscript draft.
+<img src='/images/portfolio_RND_MAPPO_7.jpg'>
+<img src='/images/portfolio_RND_MAPPO_8.jpg'>
+<img src='/images/portfolio_RND_MAPPO_9.jpg'>
+<img src='/images/portfolio_RND_MAPPO_10.jpg'>
 
 ## Abstract
 

@@ -6,7 +6,6 @@ collection: portfolio
 
 <img src='/images/portfolio_RND_MAPPO_1.jpg'>
 Project Type: Research Project
-
 Duration: March 2023.09 – 2024.06  
 Role: Lead Researcher  
 Keywords: Reinforcement Learning, Traffic Signal Control, Multi-agent Reinforcement Learning, Curiosity Mechanism
